@@ -1,6 +1,6 @@
-const { calculateSum, calculateMultiply } = require("./calculate/index");
-
 const data = require("./data.json");
+
+const { calculateSum, calculateMultiply } = require("./calculate/index");
 
 var name = "Namaste NodeJS";
 
