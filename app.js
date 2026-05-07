@@ -1,11 +1,9 @@
-const name = "Namaste NodeJS";
+const { calculateSum, calculateMultiply } = require("./calculate/index");
 
-const a = 10;
-const b = 20;
+var name = "Namaste NodeJS";
 
-//console.log(name);
-//console.log(a + b);
+var a = 10;
+var b = 20;
 
-//console.log(this);
-
-console.log(globalThis===global);
+calculateSum(a, b);
+calculateMultiply(a, b);
