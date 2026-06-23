@@ -1,4 +1,7 @@
-# Namaste NodeJS
-# Zero to Hero
+# Namaste NodeJS🚀
+
 # Basics to Advanced
-# 🔥🔥🔥🔥🔥
+
+# Zero to Hero
+
+# 🔥🔥🔥🔥🔥🔥
