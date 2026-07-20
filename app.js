@@ -1,9 +1,20 @@
+require("./xyz.js");
+
+//const { calculateSum, x } = require("./calculate/sum.js");
+//const { calculateMultiply } = require("./calculate/multiply.js");
+
+const util = require("node:util");
+
+const { calculateSum, calculateMultiply } = require("./calculate");
+
+const data = require("./data.json");
+
 const name = "Namaste NodeJS";
 
-const a = 10;
-const b = 20;
+z = "Hello World";
 
-// console.log(name);
-// console.log(a + b);
+calculateSum(10, 20);
+calculateMultiply(10, 20);
 
-console.log(global === globalThis);
+console.log(z);
+console.log(data);
