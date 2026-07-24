@@ -1,5 +1,3 @@
-// console.log("Sum Module Executed")
-
 var x = "Hello World";
 
 function calculateSum(a, b) {
