@@ -1,0 +1,25 @@
+{
+  "name": "namaste-node",
+  "version": "1.0.0",
+  "description": "This is Namaste NodeJS",
+  "keywords": [
+    "backend",
+    "javascript",
+    "nodejs"
+  ],
+  "homepage": "https://github.com/rupeshkommindala/namaste-node#readme",
+  "bugs": {
+    "url": "https://github.com/rupeshkommindala/namaste-node/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rupeshkommindala/namaste-node.git"
+  },
+  "license": "ISC",
+  "author": "Rupesh K",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
